@@ -1,0 +1,37 @@
+ NOMBRE : TW-A13A.dat
+ COMENTARIO : unknown. (cota superior)
+ COST_MUL : 2
+ DEMAND_MUL : 5
+ VERTICES : 13
+ ARISTAS_REQ : 22
+ ARISTAS_NOREQ : 1
+ VEHICULOS : 100
+ CAPACIDAD : 50
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 85
+ LISTA_ARISTAS_REQ : 
+ ( 9, 7)   tcoste 5.12746   scoste 5   demanda 4.77967   start 80   end 96
+ ( 9, 8)   tcoste 4.03349   scoste 4   demanda 1.27407   start 76   end 80
+ ( 9, 10)   tcoste 3.30167   scoste 3   demanda 2.47449   start 96   end 108
+ ( 2, 8)   tcoste 5.75792   scoste 6   demanda 0.951904   start 88   end 109
+ ( 1, 2)   tcoste 2.8169   scoste 3   demanda 8.38151   start 98   end 124
+ ( 2, 3)   tcoste 5.7167   scoste 6   demanda 4.90761   start 101   end 125
+ ( 1, 3)   tcoste 4.15648   scoste 4   demanda 5.91942   start 46   end 80
+ ( 3, 4)   tcoste 1.90994   scoste 2   demanda 10.3535   start 95   end 108
+ ( 1, 4)   tcoste 6.12215   scoste 4   demanda 0.891161   start 87   end 94
+ ( 4, 8)   tcoste 4.59475   scoste 5   demanda 0.723389   start 79   end 97
+ ( 6, 8)   tcoste 4.73012   scoste 5   demanda 7.68169   start 81   end 89
+ ( 5, 6)   tcoste 3.15478   scoste 3   demanda 2.69249   start 97   end 119
+ ( 4, 5)   tcoste 3.05975   scoste 3   demanda 4.93965   start 95   end 105
+ ( 6, 7)   tcoste 4.35599   scoste 4   demanda 7.03913   start 99   end 102
+ ( 7, 11)   tcoste 4.3318   scoste 3   demanda 8.9365   start 80   end 120
+ ( 6, 11)   tcoste 1.61542   scoste 2   demanda 5.54011   start 95   end 132
+ ( 5, 11)   tcoste 2.76653   scoste 4   demanda 4.27843   start 89   end 108
+ ( 5, 12)   tcoste 3.12972   scoste 3   demanda 7.75524   start 79   end 97
+ ( 3, 12)   tcoste 3.62867   scoste 3   demanda 5.26051   start 102   end 111
+ ( 12, 13)   tcoste 4.33805   scoste 5   demanda 8.77045   start 89   end 90
+ ( 3, 13)   tcoste 2.66257   scoste 3   demanda 0.99336   start 108   end 124
+ ( 2, 13)   tcoste 4.24701   scoste 5   demanda 2.34406   start 119   end 131
+ LISTA_ARISTAS_NOREQ : 
+ ( 2, 10)   coste 4.14717
+ DEPOSITO :   1

@@ -1,0 +1,104 @@
+ NOMBRE : TW-C60A.dat
+ COMENTARIO : 3625. (cota superior)
+ VERTICES : 60
+ ARISTAS_REQ : 81
+ ARISTAS_NOREQ : 9
+ VEHICULOS : 100
+ CAPACIDAD : 25
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 598
+ LISTA_ARISTAS_REQ : 
+ ( 1, 2)   coste 4   demanda 5   start 25   end 70
+ ( 1, 16)   coste 5   demanda 7   start 30   end 75
+ ( 1, 18)   coste 6   demanda 9   start 20   end 75
+ ( 2, 9)   coste 6   demanda 3   start 15   end 60
+ ( 2, 20)   coste 7   demanda 7   start 20   end 75
+ ( 3, 5)   coste 6   demanda 3   start 35   end 80
+ ( 3, 8)   coste 6   demanda 4   start 25   end 65
+ ( 4, 35)   coste 6   demanda 1   start 25   end 65
+ ( 4, 17)   coste 5   demanda 8   start 30   end 75
+ ( 5, 6)   coste 5   demanda 7   start 30   end 75
+ ( 5, 7)   coste 6   demanda 8   start 30   end 75
+ ( 6, 34)   coste 8   demanda 1   start 25   end 65
+ ( 7, 8)   coste 5   demanda 4   start 15   end 60
+ ( 7, 12)   coste 6   demanda 5   start 30   end 75
+ ( 8, 9)   coste 6   demanda 7   start 30   end 75
+ ( 8, 10)   coste 8   demanda 8   start 25   end 65
+ ( 9, 23)   coste 8   demanda 1   start 30   end 75
+ ( 9, 21)   coste 7   demanda 3   start 45   end 90
+ ( 10, 11)   coste 5   demanda 6   start 25   end 65
+ ( 10, 26)   coste 6   demanda 9   start 30   end 75
+ ( 11, 12)   coste 5   demanda 4   start 45   end 90
+ ( 11, 27)   coste 8   demanda 1   start 30   end 75
+ ( 12, 32)   coste 8   demanda 4   start 25   end 65
+ ( 13, 33)   coste 9   demanda 7   start 45   end 90
+ ( 14, 15)   coste 10   demanda 8   start 45   end 90
+ ( 14, 33)   coste 6   demanda 2   start 45   end 90
+ ( 16, 17)   coste 7   demanda 7   start 20   end 75
+ ( 16, 41)   coste 7   demanda 6   start 20   end 65
+ ( 16, 18)   coste 5   demanda 1   start 25   end 65
+ ( 17, 35)   coste 8   demanda 2   start 15   end 60
+ ( 17, 39)   coste 8   demanda 8   start 45   end 90
+ ( 17, 40)   coste 7   demanda 5   start 30   end 75
+ ( 18, 19)   coste 8   demanda 4   start 25   end 65
+ ( 18, 42)   coste 7   demanda 7   start 20   end 65
+ ( 19, 20)   coste 8   demanda 2   start 45   end 90
+ ( 19, 43)   coste 6   demanda 9   start 30   end 75
+ ( 19, 44)   coste 5   demanda 7   start 45   end 90
+ ( 20, 21)   coste 6   demanda 2   start 25   end 65
+ ( 21, 22)   coste 7   demanda 4   start 20   end 65
+ ( 22, 23)   coste 5   demanda 6   start 45   end 90
+ ( 23, 24)   coste 6   demanda 7   start 30   end 75
+ ( 23, 25)   coste 6   demanda 8   start 45   end 90
+ ( 25, 26)   coste 5   demanda 1   start 25   end 65
+ ( 25, 28)   coste 7   demanda 8   start 30   end 75
+ ( 26, 27)   coste 4   demanda 9   start 20   end 65
+ ( 27, 30)   coste 5   demanda 2   start 45   end 90
+ ( 27, 29)   coste 9   demanda 6   start 45   end 90
+ ( 30, 32)   coste 5   demanda 3   start 25   end 65
+ ( 30, 31)   coste 6   demanda 7   start 30   end 75
+ ( 32, 33)   coste 6   demanda 9   start 20   end 65
+ ( 34, 35)   coste 8   demanda 3   start 45   end 90
+ ( 35, 36)   coste 6   demanda 2   start 45   end 90
+ ( 36, 37)   coste 7   demanda 9   start 30   end 75
+ ( 36, 38)   coste 6   demanda 6   start 20   end 65
+ ( 37, 58)   coste 16   demanda 8   start 45   end 90
+ ( 38, 39)   coste 6   demanda 4   start 45   end 90
+ ( 38, 54)   coste 7   demanda 6   start 25   end 75
+ ( 40, 41)   coste 5   demanda 1   start 30   end 75
+ ( 40, 53)   coste 9   demanda 2   start 20   end 65
+ ( 41, 42)   coste 6   demanda 7   start 45   end 90
+ ( 42, 43)   coste 7   demanda 3   start 45   end 90
+ ( 42, 51)   coste 6   demanda 6   start 45   end 90
+ ( 43, 44)   coste 4   demanda 8   start 45   end 90
+ ( 44, 45)   coste 8   demanda 9   start 20   end 75
+ ( 45, 46)   coste 7   demanda 6   start 30   end 75
+ ( 45, 47)   coste 8   demanda 5   start 30   end 75
+ ( 46, 47)   coste 4   demanda 3   start 45   end 90
+ ( 48, 49)   coste 5   demanda 1   start 45   end 90
+ ( 49, 50)   coste 6   demanda 8   start 45   end 90
+ ( 49, 55)   coste 8   demanda 4   start 20   end 65
+ ( 50, 51)   coste 6   demanda 7   start 30   end 75
+ ( 51, 52)   coste 7   demanda 5   start 45   end 90
+ ( 52, 53)   coste 6   demanda 6   start 45   end 90
+ ( 52, 56)   coste 9   demanda 2   start 20   end 65
+ ( 53, 60)   coste 10   demanda 1   start 45   end 90
+ ( 55, 56)   coste 8   demanda 9   start 30   end 75
+ ( 56, 60)   coste 9   demanda 6   start 45   end 90
+ ( 57, 58)   coste 9   demanda 6   start 20   end 75
+ ( 57, 59)   coste 7   demanda 8   start 45   end 90
+ ( 58, 60)   coste 8   demanda 5   start 30   end 75
+ ( 59, 60)   coste 8   demanda 5   start 45   end 90
+ LISTA_ARISTAS_NOREQ : 
+ ( 2, 3)   coste 5
+ ( 4, 5)   coste 4
+ ( 9, 10)   coste 6
+ ( 12, 13)   coste 6
+ ( 15, 34)   coste 8
+ ( 28, 29)   coste 5
+ ( 39, 40)   coste 5
+ ( 45, 50)   coste 6
+ ( 53, 54)   coste 7
+ COST_MUL : 1
+ DEMAND_MUL : 2
+ DEPOSITO :   1

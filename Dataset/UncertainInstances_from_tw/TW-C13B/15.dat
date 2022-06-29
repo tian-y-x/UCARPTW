@@ -1,0 +1,37 @@
+ NOMBRE : TW-C13B.dat
+ COMENTARIO : unknown. (cota superior)
+ COST_MUL : 2
+ DEMAND_MUL : 4
+ VERTICES : 13
+ ARISTAS_REQ : 21
+ ARISTAS_NOREQ : 2
+ VEHICULOS : 100
+ CAPACIDAD : 50
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 81
+ LISTA_ARISTAS_REQ : 
+ ( 9, 7)   tcoste 5.40411   scoste 5   demanda 3.78921   start 70   end 116
+ ( 9, 8)   tcoste 3.77875   scoste 4   demanda 0   start 66   end 100
+ ( 9, 10)   tcoste 3.04561   scoste 3   demanda 3.4199   start 86   end 128
+ ( 2, 8)   tcoste 5.59607   scoste 6   demanda 0.677795   start 78   end 129
+ ( 1, 2)   tcoste 3.64966   scoste 3   demanda 6.07916   start 88   end 144
+ ( 2, 3)   tcoste 4.44773   scoste 6   demanda 6.03431   start 91   end 145
+ ( 1, 3)   tcoste 3.70772   scoste 4   demanda 5.29342   start 36   end 100
+ ( 3, 4)   tcoste 1.97142   scoste 2   demanda 8.54733   start 105   end 128
+ ( 1, 4)   tcoste 2.95456   scoste 4   demanda 1.2025   start 77   end 114
+ ( 4, 8)   tcoste 5.1647   scoste 5   demanda 1.37368   start 69   end 117
+ ( 6, 8)   tcoste 5.8484   scoste 5   demanda 6.47525   start 71   end 109
+ ( 5, 6)   tcoste 2.87532   scoste 3   demanda 1.85785   start 87   end 139
+ ( 4, 5)   tcoste 3.20317   scoste 3   demanda 5.45187   start 85   end 125
+ ( 6, 7)   tcoste 3.89893   scoste 4   demanda 5.59512   start 89   end 122
+ ( 7, 11)   tcoste 3.69851   scoste 3   demanda 9.1854   start 70   end 140
+ ( 6, 11)   tcoste 3.38998   scoste 2   demanda 6.23481   start 85   end 152
+ ( 5, 11)   tcoste 4.03765   scoste 4   demanda 4.58134   start 79   end 128
+ ( 5, 12)   tcoste 2.28351   scoste 3   demanda 7.2342   start 69   end 117
+ ( 3, 12)   tcoste 2.68348   scoste 3   demanda 5.96598   start 92   end 131
+ ( 12, 13)   tcoste 4.01863   scoste 5   demanda 8.20172   start 79   end 110
+ ( 3, 13)   tcoste 2.81838   scoste 3   demanda 1.21863   start 98   end 144
+ ( 2, 13)   tcoste 4.05357   scoste 5   demanda 3.07122   start 109   end 151
+ LISTA_ARISTAS_NOREQ : 
+ ( 2, 10)   coste 2.33147
+ DEPOSITO :   1

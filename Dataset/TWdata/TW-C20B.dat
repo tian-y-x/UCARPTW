@@ -1,0 +1,45 @@
+ NOMBRE : TW-C20B.dat
+ COMENTARIO : 3625. (cota superior)
+ VERTICES : 20
+ ARISTAS_REQ : 29
+ ARISTAS_NOREQ : 2
+ VEHICULOS : 100
+ CAPACIDAD : 25
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 123
+ LISTA_ARISTAS_REQ : 
+ ( 15, 16)   coste 8   demanda 7   start 0   end 70
+ ( 16, 17)   coste 4   demanda 8   start 30   end 80
+ ( 15, 19)   coste 4   demanda 4   start 32   end 82
+ ( 18, 19)   coste 3   demanda 8   start 29   end 69
+ ( 2, 17)   coste 3   demanda 9   start 0   end 39
+ ( 1, 2)   coste 4   demanda 4   start 0   end 44
+ ( 2, 3)   coste 4   demanda 9   start 3   end 36
+ ( 3, 6)   coste 7   demanda 6   start 5   end 47
+ ( 18, 20)   coste 3   demanda 1   start 37   end 78
+ ( 1, 20)   coste 4   demanda 5   start 3   end 44
+ ( 1, 4)   coste 3   demanda 8   start 14   end 48
+ ( 1, 9)   coste 4   demanda 5   start 27   end 60
+ ( 10, 20)   coste 3   demanda 1   start 31   end 69
+ ( 4, 5)   coste 2   demanda 1   start 27   end 66
+ ( 4, 7)   coste 4   demanda 9   start 17   end 50
+ ( 5, 6)   coste 3   demanda 5   start 54   end 99
+ ( 6, 7)   coste 5   demanda 4   start 27   end 61
+ ( 7, 8)   coste 5   demanda 1   start 28   end 66
+ ( 8, 9)   coste 3   demanda 8   start 34   end 69
+ ( 8, 11)   coste 4   demanda 6   start 21   end 55
+ ( 10, 11)   coste 4   demanda 1   start 44   end 79
+ ( 9, 10)   coste 3   demanda 5   start 39   end 72
+ ( 10, 14)   coste 4   demanda 1   start 28   end 72
+ ( 14, 15)   coste 3   demanda 9   start 33   end 77
+ ( 13, 15)   coste 6   demanda 9   start 24   end 59
+ ( 13, 14)   coste 3   demanda 5   start 29   end 77
+ ( 12, 13)   coste 2   demanda 3   start 39   end 84
+ ( 11, 12)   coste 3   demanda 2   start 29   end 68
+ ( 11, 14)   coste 5   demanda 8   start 39   end 77
+ LISTA_ARISTAS_NOREQ : 
+ ( 17, 18)   coste 4
+ ( 1, 3)   coste 6
+ COST_MUL : 1
+ DEMAND_MUL : 3
+ DEPOSITO :   1

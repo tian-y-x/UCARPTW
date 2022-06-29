@@ -1,0 +1,45 @@
+ NOMBRE : TW-C20B.dat
+ COMENTARIO : unknown. (cota superior)
+ COST_MUL : 1
+ DEMAND_MUL : 3
+ VERTICES : 20
+ ARISTAS_REQ : 26
+ ARISTAS_NOREQ : 5
+ VEHICULOS : 100
+ CAPACIDAD : 25
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 102
+ LISTA_ARISTAS_REQ : 
+ ( 15, 16)   tcoste 10.1675   scoste 8   demanda 6.90874   start 0   end 70
+ ( 16, 17)   tcoste 4.24739   scoste 4   demanda 0   start 30   end 80
+ ( 15, 19)   tcoste 5.5343   scoste 4   demanda 5.19363   start 32   end 82
+ ( 18, 19)   tcoste 4.44779   scoste 3   demanda 4.48807   start 29   end 69
+ ( 2, 17)   tcoste 3.19261   scoste 3   demanda 7.24475   start 0   end 39
+ ( 1, 2)   tcoste 2.19789   scoste 4   demanda 3.41414   start 0   end 44
+ ( 2, 3)   tcoste 4.41096   scoste 4   demanda 10.7944   start 3   end 36
+ ( 3, 6)   tcoste 6.58753   scoste 7   demanda 6.60895   start 5   end 47
+ ( 18, 20)   tcoste 4.43659   scoste 3   demanda 1.08888   start 37   end 78
+ ( 1, 20)   tcoste 4.73129   scoste 4   demanda 6.7388   start 3   end 44
+ ( 1, 4)   tcoste 2.8789   scoste 3   demanda 11.9356   start 14   end 48
+ ( 1, 9)   tcoste 4.03643   scoste 4   demanda 6.81676   start 27   end 60
+ ( 10, 20)   tcoste 2.90917   scoste 3   demanda 0   start 31   end 69
+ ( 4, 5)   tcoste 1.73478   scoste 2   demanda 1.41368   start 27   end 66
+ ( 4, 7)   tcoste 2.3464   scoste 4   demanda 11.6939   start 17   end 50
+ ( 5, 6)   tcoste 5.09743   scoste 3   demanda 5.28012   start 54   end 99
+ ( 6, 7)   tcoste 4.5208   scoste 5   demanda 4.71324   start 27   end 61
+ ( 7, 8)   tcoste 4.69505   scoste 5   demanda 1.27081   start 28   end 66
+ ( 8, 9)   tcoste 4.02065   scoste 3   demanda 8.15555   start 34   end 69
+ ( 8, 11)   tcoste 2.95613   scoste 4   demanda 0   start 21   end 55
+ ( 10, 11)   tcoste 2.65207   scoste 4   demanda 0.606668   start 44   end 79
+ ( 9, 10)   tcoste 2.38223   scoste 3   demanda 3.80122   start 39   end 72
+ ( 10, 14)   tcoste 3.7877   scoste 4   demanda 1.09348   start 28   end 72
+ ( 14, 15)   tcoste 3.3877   scoste 3   demanda 10.0319   start 33   end 77
+ ( 13, 15)   tcoste 6.26326   scoste 6   demanda 12.1467   start 24   end 59
+ ( 13, 14)   tcoste 2.47117   scoste 3   demanda 5.03295   start 29   end 77
+ ( 12, 13)   tcoste 2.00563   scoste 2   demanda 3.38801   start 39   end 84
+ ( 11, 12)   tcoste 3.46233   scoste 3   demanda 2.07141   start 29   end 68
+ ( 11, 14)   tcoste 6.36858   scoste 5   demanda 8.27202   start 39   end 77
+ LISTA_ARISTAS_NOREQ : 
+ ( 17, 18)   coste 4.01695
+ ( 1, 3)   coste 7.18112
+ DEPOSITO :   1

@@ -1,0 +1,83 @@
+ NOMBRE : TW-A40D.dat
+ COMENTARIO : 3625. (cota superior)
+ VERTICES : 40
+ ARISTAS_REQ : 63
+ ARISTAS_NOREQ : 6
+ VEHICULOS : 100
+ CAPACIDAD : 75
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 356
+ LISTA_ARISTAS_REQ : 
+ ( 6, 31)   coste 8   demanda 8   start 80   end 109
+ ( 30, 31)   coste 4   demanda 2   start 97   end 108
+ ( 9, 31)   coste 8   demanda 9   start 109   end 112
+ ( 9, 33)   coste 6   demanda 1   start 158   end 168
+ ( 32, 33)   coste 4   demanda 7   start 110   end 143
+ ( 29, 30)   coste 3   demanda 7   start 90   end 102
+ ( 29, 32)   coste 5   demanda 8   start 80   end 89
+ ( 6, 29)   coste 5   demanda 5   start 105   end 146
+ ( 6, 27)   coste 7   demanda 9   start 132   end 135
+ ( 6, 15)   coste 7   demanda 3   start 186   end 197
+ ( 13, 32)   coste 6   demanda 6   start 146   end 164
+ ( 27, 28)   coste 4   demanda 5   start 90   end 96
+ ( 15, 28)   coste 4   demanda 4   start 106   end 146
+ ( 16, 28)   coste 5   demanda 5   start 122   end 148
+ ( 26, 27)   coste 5   demanda 7   start 134   end 153
+ ( 15, 16)   coste 4   demanda 3   start 199   end 205
+ ( 13, 14)   coste 5   demanda 6   start 119   end 146
+ ( 1, 14)   coste 5   demanda 8   start 146   end 176
+ ( 13, 34)   coste 5   demanda 1   start 178   end 198
+ ( 34, 35)   coste 4   demanda 8   start 145   end 167
+ ( 2, 35)   coste 6   demanda 2   start 112   end 134
+ ( 2, 3)   coste 14   demanda 1   start 134   end 146
+ ( 2, 7)   coste 9   demanda 2   start 164   end 171
+ ( 7, 34)   coste 4   demanda 8   start 91   end 99
+ ( 1, 13)   coste 4   demanda 9   start 89   end 109
+ ( 12, 13)   coste 4   demanda 1   start 157   end 187
+ ( 1, 12)   coste 3   demanda 8   start 187   end 197
+ ( 8, 12)   coste 4   demanda 2   start 189   end 197
+ ( 1, 11)   coste 3   demanda 5   start 100   end 109
+ ( 11, 16)   coste 5   demanda 6   start 99   end 180
+ ( 16, 26)   coste 4   demanda 3   start 89   end 100
+ ( 11, 23)   coste 4   demanda 1   start 101   end 111
+ ( 23, 26)   coste 5   demanda 5   start 146   end 156
+ ( 8, 11)   coste 5   demanda 9   start 177   end 188
+ ( 7, 8)   coste 5   demanda 7   start 129   end 137
+ ( 7, 17)   coste 6   demanda 2   start 145   end 186
+ ( 3, 17)   coste 6   demanda 7   start 101   end 119
+ ( 3, 18)   coste 5   demanda 7   start 89   end 103
+ ( 8, 20)   coste 6   demanda 7   start 94   end 96
+ ( 18, 20)   coste 4   demanda 3   start 89   end 197
+ ( 18, 19)   coste 3   demanda 3   start 121   end 154
+ ( 19, 20)   coste 5   demanda 1   start 107   end 166
+ ( 4, 19)   coste 8   demanda 1   start 98   end 124
+ ( 4, 20)   coste 5   demanda 1   start 89   end 108
+ ( 8, 10)   coste 4   demanda 9   start 106   end 124
+ ( 10, 21)   coste 5   demanda 6   start 132   end 164
+ ( 10, 22)   coste 6   demanda 4   start 164   end 176
+ ( 5, 21)   coste 9   demanda 7   start 185   end 192
+ ( 5, 22)   coste 6   demanda 8   start 199   end 205
+ ( 5, 24)   coste 5   demanda 6   start 208   end 209
+ ( 22, 24)   coste 5   demanda 3   start 108   end 120
+ ( 22, 23)   coste 4   demanda 8   start 121   end 164
+ ( 24, 25)   coste 4   demanda 3   start 137   end 158
+ ( 25, 26)   coste 5   demanda 8   start 185   end 197
+ ( 8, 40)   coste 4   demanda 4   start 112   end 164
+ ( 20, 40)   coste 5   demanda 8   start 118   end 156
+ ( 17, 40)   coste 5   demanda 7   start 118   end 119
+ ( 17, 39)   coste 3   demanda 1   start 109   end 121
+ ( 33, 37)   coste 4   demanda 5   start 165   end 176
+ ( 36, 37)   coste 5   demanda 5   start 187   end 189
+ ( 37, 38)   coste 7   demanda 5   start 198   end 208
+ ( 36, 38)   coste 5   demanda 6   start 207   end 222
+ ( 2, 38)   coste 7   demanda 9   start 106   end 197
+ LISTA_ARISTAS_NOREQ : 
+ ( 15, 29)   coste 6
+ ( 33, 35)   coste 5
+ ( 14, 15)   coste 2
+ ( 4, 21)   coste 5
+ ( 7, 39)   coste 6
+ ( 35, 36)   coste 3
+ COST_MUL : 2
+ DEMAND_MUL : 5
+ DEPOSITO :   1

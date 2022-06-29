@@ -1,0 +1,29 @@
+ NOMBRE : TW-A10A.dat
+ COMENTARIO : unknown. (cota superior)
+ COST_MUL : 1
+ DEMAND_MUL : 2
+ VERTICES : 10
+ ARISTAS_REQ : 10
+ ARISTAS_NOREQ : 4
+ VEHICULOS : 100
+ CAPACIDAD : 25
+ TIPO_COSTES_ARISTAS : EXPLICITOS 
+ COSTE_TOTAL_REQ : 39
+ LISTA_ARISTAS_REQ : 
+ ( 9, 7)   tcoste 4.27324   scoste 5   demanda 1.33102   start 12   end 15
+ ( 9, 8)   tcoste 3.52872   scoste 4   demanda 2.23642   start 15   end 24
+ ( 9, 10)   tcoste 2.73987   scoste 3   demanda 11.3162   start 19   end 30
+ ( 2, 10)   tcoste 2.75892   scoste 4   demanda 0   start 14   end 25
+ ( 2, 3)   tcoste 7.49789   scoste 6   demanda 7.34677   start 15   end 31
+ ( 1, 3)   tcoste 4.49159   scoste 4   demanda 0.723959   start 18   end 24
+ ( 3, 4)   tcoste 2.04536   scoste 2   demanda 2.59778   start 20   end 29
+ ( 1, 4)   tcoste 4.33081   scoste 4   demanda 8.60985   start 14   end 21
+ ( 6, 8)   tcoste 6.04295   scoste 5   demanda 5.14874   start 16   end 22
+ ( 5, 6)   tcoste 2.48338   scoste 3   demanda 7.36713   start 17   end 26
+ ( 4, 5)   tcoste 2.21261   scoste 3   demanda 5.76107   start 21   end 27
+ LISTA_ARISTAS_NOREQ : 
+ ( 2, 8)   coste -1
+ ( 1, 2)   coste 3.71743
+ ( 4, 8)   coste 7.46617
+ ( 6, 7)   coste 3.64974
+ DEPOSITO :   1
